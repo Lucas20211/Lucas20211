@@ -1,9 +1,9 @@
 ### Olá ! Eu sou o Lucas Martins
 
-- 🌱 hoje estou estudando e praticando HTML/CSS/PHP/JAVASCRIPT/ANGULAR/.NET/C#
+- 🌱 hoje estou estudando e praticando HTML/CSS/PHP/JAVASCRIPT/ANGULAR/LARAVEL/.NET/C#/
 - 👯 Trabalho atual na AL-WI TECNOLOGIA / AGÊNCIA 4PIX
 - 📫 Contate-me no email: lucaspmartins_1023@outlook.com
-- 😄 Pronouns: ele/dele
+  
  
 <div align="center">
   <a href="https://github.com/Lucas20211">
